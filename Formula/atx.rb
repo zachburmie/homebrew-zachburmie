@@ -1,4 +1,4 @@
-class Kns < Formula
+class atx < Formula
   desc "Quick AWS role Switcher"
   homepage "https://github.com/zachburmie/atx"
   url "https://github.com/zachburmie/atx.git", :revision => "613261c0efa388ab9e34cce50fa56f0e6b39366d"
