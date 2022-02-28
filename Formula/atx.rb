@@ -2,7 +2,7 @@ class Atx < Formula
   desc "Quick AWS role Switcher"
   homepage "https://github.com/zachburmie/atx"
   url "https://github.com/zachburmie/atx.git"
-  version "95cf5168f616eebfe42b0be210cc98850a712cde"
+  version "2871c3a4ab6a44d6edcb29e76d99ef9a2f47224b"
   head "https://github.com/zachburmie/atx.git"
 
   depends_on "aws-okta"
